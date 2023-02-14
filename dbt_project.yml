@@ -36,4 +36,4 @@ models:
     # Config indicated by + and applies to all files under models/example/
     example:
       +database: SAMPLE_DB_AZURE_POC
-      +materialized: view
+      +materialized: table
